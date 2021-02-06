@@ -13,7 +13,7 @@
 
 ### Установка
 ```
-& clone https://github.com/X-Crux/generator_names_and_surnames
+& git clone https://github.com/X-Crux/generator_names_and_surnames
 ```
 ### Запуск
 ```
