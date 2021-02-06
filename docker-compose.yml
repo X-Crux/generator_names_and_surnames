@@ -1,0 +1,8 @@
+version: "3.3"
+
+services:
+  sd_web:
+    build: .
+    command: python /usr/src/gen_names/main.py
+    volumes:
+      - .:/usr/src/gen_names

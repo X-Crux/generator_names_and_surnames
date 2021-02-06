@@ -8,4 +8,14 @@
 #### - surname_list.csv - фамилии
 #### - names_surnames_list.csv - рамдомное генерация имя + фамилия
 
-#### BeautifulSoup
+`BeautifulSoup`
+`Docker`
+
+### Установка
+```
+& clone https://github.com/X-Crux/generator_names_and_surnames
+```
+### Запуск
+```
+& sudo docker-compose up
+```
